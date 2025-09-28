@@ -1,4 +1,18 @@
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
-xgboost==2.0.3
+# Web UI
+streamlit
+plotly
+
+# Utils
+python-dotenv
+
+# Data
+pandas
+numpy
+
+# ML
+scikit-learn
+xgboost
+joblib
+
+# Trading
+ccxt
