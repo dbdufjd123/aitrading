@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment & secrets
+.env
+.streamlit/secrets.toml
+
+# Logs & data (local only)
+*.log
+logs/
+live_log.csv
+equity.csv
+trades.csv
+
+# OS files
+.DS_Store
+Thumbs.db
